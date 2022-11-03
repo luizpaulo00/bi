@@ -54,4 +54,5 @@ streamlit-aggrid ==0.3.3
 tqdm == 4.64.1
 mysql-connector == 2.2.9
 sqlalchemy == 1.4
+scipy == 1.9.3
 
