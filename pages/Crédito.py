@@ -489,7 +489,7 @@ response = AgGrid(
     gridOptions=gridoptions,
     enable_enterprise_modules=True,
     header_checkbox_selection_filtered_only=True,
-    use_checkbox=True, theme="blue")
+    use_checkbox=True, theme="ALPINE")
 
 st.title("# REPASSE | EMPREEND ")
 gb = GridOptionsBuilder.from_dataframe(RESUMO_BASE2)
