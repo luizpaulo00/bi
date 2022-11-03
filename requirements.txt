@@ -51,3 +51,7 @@ seaborn==0.12.1
 plotly == 5.11
 openpyxl ==3.0.10
 streamlit-aggrid ==0.3.3
+tqdm == 4.64.1
+matplotlib == 3.6.2
+mysql-connector == 2.2.9
+psycopg == 3.1.4
