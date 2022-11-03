@@ -56,4 +56,5 @@ mysql-connector == 2.2.9
 sqlalchemy == 1.4
 scipy == 1.9.3
 psycopg2 == 2.9.5
+deta == 1.1.0
 
