@@ -52,3 +52,5 @@ plotly == 5.11
 openpyxl ==3.0.10
 streamlit-aggrid ==0.3.3
 tqdm == 4.64.1
+mysql-connector == 2.2.9
+
